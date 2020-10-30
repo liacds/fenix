@@ -19,4 +19,12 @@
     <string name="privacy_notice_positive_button">Agree and Continue</string>
     <!-- Privacy Notice neutral button-->
     <string name="privacy_notice_neutral_button">Exit the App</string>
+
+    <!-- FxA server switch-->
+    <!-- Switch Preference for domestic China/global fxa server -->
+    <string name="preferences_allow_domestic_china_fxa_server">Use domestic China service</string>
+    <!-- Instructions on how to access pairing -->
+    <string name="pair_instructions_2_cn"><![CDATA[Scan the QR code shown at <b>firefox.com.cn/pair</b>]]></string>
+    <!-- Instructions on how to access pairing -->
+    <string name="sign_in_instructions_cn"><![CDATA[On your computer open Firefox and go to <b>https://firefox.com.cn/pair</b>]]></string>
 </resources>
